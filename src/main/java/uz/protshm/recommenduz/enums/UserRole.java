@@ -1,5 +1,5 @@
 package uz.protshm.recommenduz.enums;
 
 public enum UserRole {
-    ADMIN,MODERATOR,CLIENT
+    ADMIN,MODERATOR,CLIENT  //dfedfdfdf
 }
